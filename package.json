@@ -1,0 +1,24 @@
+{
+  "name": "database",
+  "version": "1.0.0",
+  "description": "Json-server demo",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "nodemon main.js",
+    "start": "node main.js"
+  },
+  "keywords": [
+    "json-server"
+  ],
+  "author": "hl",
+  "license": "ISC",
+  "dependencies": {
+    "firebase": "^9.9.3",
+    "json-server": "^0.17.0",
+    "react-firebaseui": "^6.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.19"
+  }
+}
