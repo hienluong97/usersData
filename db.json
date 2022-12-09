@@ -1,5 +1,12 @@
-{
- "users": [
-  
- ]
+{"users": [
+  {
+    "id": 1,
+    "name": "hien luong ",
+    "username": "hienluong1997@gmail.com",
+    "email": "hienluong1997@gmail.com",
+    "password": "12345678",
+    "createdAt": 1663030994183
+  }
+]
+
 }
